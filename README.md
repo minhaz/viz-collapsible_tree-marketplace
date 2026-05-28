@@ -62,3 +62,8 @@ Great! Marketplace content -- including visualizations -- were designed for cont
 
 **`.tsconfig.json`**: A configuration file for the typescript -> javascript compiler.
 
+
+
+---
+
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
